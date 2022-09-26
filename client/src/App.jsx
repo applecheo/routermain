@@ -3,7 +3,11 @@ import reactLogo from "./assets/react.svg";
 import "./App.css";
 
 function App() {
-  return <div className="App"></div>;
+  return (
+    <div className="App">
+      <h1>react to do</h1>
+    </div>
+  );
 }
 
 export default App;
